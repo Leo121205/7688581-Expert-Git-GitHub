@@ -1,4 +1,4 @@
-# Open Transport bonjour
+# Open Transport aurevoir
 
 Application web pour covoiturage. 
 
